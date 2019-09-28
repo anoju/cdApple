@@ -1,0 +1,3 @@
+yarn global add @vue/cli 혹은 npm install -g @vue/cli
+vue create vuedongsan
+yarn serve
